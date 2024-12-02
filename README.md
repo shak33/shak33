@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux"/>
 <img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat"/>
+<img src="https://img.shields.io/badge/-Node-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff&style=flat"/>
 <img src="https://img.shields.io/badge/Prisma-black?style=flat-square&logo=Prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql&logoColor=pink"/>
 <img src="https://img.shields.io/badge/-Zod-black?style=flat-square&logo=zod&logoColor=white"/>
