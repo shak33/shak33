@@ -16,17 +16,11 @@ Here are some ideas to get you started:
 ![Nowy projekt](https://github.com/user-attachments/assets/ad6f96d6-a71b-49ae-afa2-b37719fa05ee)
 
 <p align="center">
- 
  <img src="https://badges.pufler.dev/visits/shak33/shak33"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
  <img src="https://badges.pufler.dev/repos/shak33"/>
  <img src="https://badges.pufler.dev/commits/monthly/shak33" />
-
 </p>
-
-<!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
 
 <h2 align="center">Technology Stack</h2>
 <p align="center">
