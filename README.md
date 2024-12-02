@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![1ACFF0CB-38FA-4E52-948D-B3E68229198E](https://github.com/user-attachments/assets/60500c1d-161d-4024-802e-9e3439797e19)
-
-
+![1ACFF0CB-38FA-4E52-948D-B3E68229198E (1)](https://github.com/user-attachments/assets/3a8f6425-1caf-424a-b0e2-c8ae32e8e787)
 
 <p align="center">
  
