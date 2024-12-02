@@ -29,22 +29,29 @@ Here are some ideas to get you started:
 </p>   -->
 
 <h2 align="center">Technology Stack</h2>
-
 <p align="center">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&"/>
+<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Sass-black?style=flat-square&logo=Sass"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express.js"/>
+<img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux"/>
 <img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js"/>
-<img src="https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=Prisma.js"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat"/>
+<img src="https://img.shields.io/badge/Prisma-black?style=flat-square&logo=Prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql&logoColor=pink"/>
+<img src="https://img.shields.io/badge/-Zod-black?style=flat-square&logo=zod&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis"/>
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest"/>
+<img src="https://img.shields.io/badge/Chai-black?style=flat-square&logo=chai"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest"/>
+<img src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=Postman"/>
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker"/>
 </p>
 
 <h2 align="center">
