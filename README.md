@@ -17,9 +17,16 @@ Here are some ideas to get you started:
 
 <p align="center">
  <img src="https://badges.pufler.dev/visits/shak33/shak33"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/years/shak33"/>
  <img src="https://badges.pufler.dev/repos/shak33"/>
  <img src="https://badges.pufler.dev/commits/monthly/shak33" />
+</p>
+
+<h2 align="center">Social accounts (click badge to open)</h2>
+<p align="center">
+<a href="https://leetcode.com/u/shak33/" target="_blank" ><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" /></a>
+<a href="https://www.linkedin.com/in/maciej-poppek/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@maciejpoppek" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium" /></a>
 </p>
 
 <h2 align="center">Technology Stack</h2>
