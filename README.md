@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Nowy projekt](https://github.com/user-attachments/assets/ad6f96d6-a71b-49ae-afa2-b37719fa05ee)
+![image 2222](https://github.com/user-attachments/assets/f6f8d9b6-eefb-4515-8f78-9b0790122266)
+
 
 <p align="center">
  <img src="https://badges.pufler.dev/visits/shak33/shak33"/> 
